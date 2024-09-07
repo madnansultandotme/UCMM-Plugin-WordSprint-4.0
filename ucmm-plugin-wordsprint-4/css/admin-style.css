@@ -1,0 +1,14 @@
+/* Style the textarea and checkbox layout for better UX
+textarea {
+    width: 100%;
+    height: 100px;
+}
+
+select {
+    width: 100%;
+    height: 150px;
+}
+
+input[type="checkbox"] {
+    margin-top: 10px;
+} */
