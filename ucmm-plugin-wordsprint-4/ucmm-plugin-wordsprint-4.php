@@ -1,10 +1,19 @@
 <?php
 /*
 Plugin Name: UCMM Wordsprint Plugin
+Plugin URI: https://github.com/madnansultandotme/UCMM-Plugin-WordSprint-4.0
 Description: Adds Maintenance Mode, Coming Soon, and Under Construction functionality.
-Version: 1.1
+Version: 1.2.0
 Author: Team Zeppelin
+Author URI: https://github.com/madnansultandotme
+Text Domain: ucmm-wordsprint-plugin
+Domain Path: /languages
+License: GPL v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Tags: maintenance mode, coming soon, under construction, page builder, landing page, maintenance page, under construction page, coming soon page
+Contributors: teamzeppelin
 */
+
 
 if (!defined('ABSPATH')) {
     exit;
